@@ -19,5 +19,7 @@
 ![Image Use DT](SpDT-2.png)
 
 # Usage
-Test on colab : https://colab.research.google.com/github/arm2arm//SPiterDT/blob/master/
+Test on colab : 
+<a href="https://colab.research.google.com/github/arm2arm//SPiterDT/blob/master/SpDTree-1.ipynb"><img src="https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal" alt="Google Colab" /></a></li>
+ 
 more coming soon...
