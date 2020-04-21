@@ -1,0 +1,7 @@
+numpy==1.18.*
+matplotlib==3.*
+pandas==1.*
+xlrd==1.*
+sklearn==0.22.*
+pydotplus==2.x
+IPython==5.5.*
